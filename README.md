@@ -1,5 +1,7 @@
 # Atividade-PDS
-Cotrole Bibliotecário - linguagem de porgramação Python
+Cotrole Bibliotecário - linguagem de programação Python
+
+
 class Livro:
     def __init__(self, titulo, autor, genero, quantidade):
         self.titulo = titulo
